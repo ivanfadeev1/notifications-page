@@ -235,20 +235,6 @@ body {
             margin-left: auto;
         }
     }
-    /////////////////////////
-    &--peterson {
-        padding-top: 19px;
-        padding-bottom: 16px;
-        .notification__content-info {
-            &-name {
-                margin-right: 5px;
-            }
-            &-action {
-                margin-right: 2px;
-            }
-        }
-    }
-    /////////////////////////
     @media (max-width: 576px) {
         padding: 16px 12px 17px 16px;
         &__avatar {

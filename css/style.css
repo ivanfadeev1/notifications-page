@@ -205,16 +205,6 @@ body {
   padding-left: 12px;
   margin-left: auto;
 }
-.notification--peterson {
-  padding-top: 19px;
-  padding-bottom: 16px;
-}
-.notification--peterson .notification__content-info-name {
-  margin-right: 5px;
-}
-.notification--peterson .notification__content-info-action {
-  margin-right: 2px;
-}
 @media (max-width: 576px) {
   .notification {
     padding: 16px 12px 17px 16px;

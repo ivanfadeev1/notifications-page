@@ -9,4 +9,5 @@ if (unreadMessages.length) {
 readButton.addEventListener('click', function() {
     unreadMessages.forEach(unreadMessage => unreadMessage.classList.remove('notification--unread'));
     unreadCounter.style.opacity = 0;
+    readButton.style.opacity = 0;
 });
